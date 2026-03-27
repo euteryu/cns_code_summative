@@ -8,7 +8,7 @@ These Python files were uploaded here at 11:16, March 27, 2026 (please see times
 
 For ease, I have split my files into 2 helper modules and 9 core modules that should be run sequentially if the examiner wishes to test the scripts.
 
-The project structure (directory_structure.txt) file that was uploaded to KEATS (alongside the project report) will elucidate how the code is further organised and where to place the files with respect to the dataset in the file directories for minimal headaches setting everything up.
+The project structure (directory_structure.txt) file that was uploaded to KEATS (alongside the project report ✰) will elucidate how the code is further organised and where to place the files with respect to the dataset in the file directories for minimal headaches setting everything up.
 
 If the examiner does not have the relevant Python packages, they should install the following:
 
@@ -28,3 +28,8 @@ I was inspired by, and significantly adapted several snippets from the following
 Kind regards,
 
 K22014863
+
+
+P.S.
+
+✰ : the report is a sub-optimal upload as it is from an earlier draft, and contains several typos. Too late to swap out files, but thought it's worth considering when reading...
