@@ -9,7 +9,8 @@ For ease I have split my files into 2 helper modules and 9 core modules that sho
 The project structure (directory_structure.txt) file that was uploaded to KEATS (alongside the project report) will elucidate how the code is further organised and where to place the files with respect to the dataset in the file directories for minimal headaches setting everything up.
 
 If the examiner does not have the relevant Python packages, they should install the following:
-pip install h5py numpy scipy matplotlib seaborn pandas joblib neurolib nilearn nibabel openpyxl xlrd
+
+*pip install h5py numpy scipy matplotlib seaborn pandas joblib neurolib nilearn nibabel openpyxl xlrd*
 
 Kind regards,
 
