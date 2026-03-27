@@ -14,7 +14,7 @@ If the examiner does not have the relevant Python packages, they should install 
 
 `pip install h5py numpy scipy matplotlib seaborn pandas joblib neurolib nilearn nibabel openpyxl xlrd`
 
-I adapted several snippets from, and was highly inspired by, the following Python snippets located:
+I was inspired by, and significantly adapted several snippets from the following resources located:
 
 - <https://github.com/johannaleapopp/SC_FC_Coupling_Task_Intelligence>
 - <https://github.com/zijin-gu/scfc-coupling>
@@ -23,6 +23,7 @@ I adapted several snippets from, and was highly inspired by, the following Pytho
 - <https://github.com/neurolib-dev/neurolib>
 - <https://github.com/OpenSourceBrain/WilsonCowan>
 - <https://github.com/NeuroTorch/NeuroTorch/blob/main/tutorials/time_series_forecasting_wilson_cowan/tutorial.ipynb>
+- <https://github.com/marcoaqil/Graph-Stochastic-Wilson-Cowan-Model>
 
 Kind regards,
 
