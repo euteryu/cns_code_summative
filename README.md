@@ -17,11 +17,12 @@ If the examiner does not have the relevant Python packages, they should install 
 I adapted several snippets from, and was highly inspired by, the following Python snippets located:
 
 - <https://github.com/johannaleapopp/SC_FC_Coupling_Task_Intelligence>
-- [**https://github.com/zijin-gu/scfc-coupling**](https://github.com/zijin-gu/scfc-coupling)
-- [**https://github.com/netneurolab/liu_meg-scfc**](https://github.com/netneurolab/liu_meg-scfc) 
-- [**https://github.com/zijin-gu/scfc-coupling**](https://github.com/zijin-gu/scfc-coupling)
-- [**https://github.com/neurolib-dev/neurolib**](https://github.com/neurolib-dev/neurolib)
-- [**https://github.com/OpenSourceBrain/WilsonCowan**](https://github.com/OpenSourceBrain/WilsonCowan)
+- <https://github.com/zijin-gu/scfc-coupling>
+- <https://github.com/netneurolab/liu_meg-scfc>
+- <https://github.com/zijin-gu/scfc-coupling>
+- <https://github.com/neurolib-dev/neurolib>
+- <https://github.com/OpenSourceBrain/WilsonCowan>
+- <https://github.com/NeuroTorch/NeuroTorch/blob/main/tutorials/time_series_forecasting_wilson_cowan/tutorial.ipynb>
 
 Kind regards,
 
